@@ -1,9 +1,9 @@
-# MiaoWastelnad-modpack-config-script
+# DEGENE-modpack-config-script
 
 
 ---
 
-### 🌱 **《MiaoWasteland》整合包温馨指引**  
+### 🌱 **《双衰变》整合包温馨指引**  
 > *“本整合包专注于**自主探索**与**策略生存**体验，部分玩家可能需要调整预期哦~”*
 
 ---
